@@ -69,3 +69,6 @@ function doMath(num1, num2, func) {
 const res = doMath(2, 5, (x, y)=> x + y)
 
 console.log(res)
+// immediately called functions
+// Assignment
+// currying
